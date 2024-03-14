@@ -1,6 +1,8 @@
 {
   "name": "Jarvel dark theme",
+  "publisher": "Jarvel",
   "type": "dark",
+  "keywords": ["dark", "theme", "jarvel", "jarvel theme"],
   "semanticTokenColors": {
     "parameter.declaration": {
       "foreground": "#e0af68"

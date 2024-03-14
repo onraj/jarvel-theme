@@ -1,16 +1,22 @@
-# jarvel-theme README
+# Jarvel Dark Theme
 
-## Working with Markdown
+Jarvel Dark Theme is a dark color theme for Visual Studio Code, inspired by the vibrant nightlife of Tokyo and the calmness of a night storm. It's designed to be easy on the eyes, providing developers with a comfortable and enjoyable coding experience during long coding sessions. This theme emphasizes contrast, readability, and elegance, with carefully chosen colors to highlight key programming constructs.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Features
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+- Dark background to reduce eye strain.
+- Distinctive colors for different syntax tokens like functions, variables, constants, and more to improve code readability.
+- Custom colors for UI elements to ensure a consistent and immersive experience.
+- Emphasis on semantic highlighting for better code understanding.
 
-## For more information
+## Preview
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+![Preview of Jarvel Dark Theme](screenshot.png)
 
-**Enjoy!**
+## Customization
+
+You can customize the theme further by tweaking the VS Code settings or by using the `workbench.colorCustomizations` and `editor.tokenColorCustomizations` settings in your `settings.json` file.
+
+## Contributing
+
+If you have suggestions or find any issues, please report them on the [GitHub repository](https://github.com/onraj/jarvel-theme/issues), and feel free to submit pull requests.
