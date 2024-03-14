@@ -1,8 +1,22 @@
 {
   "name": "jarvel-theme",
-  "displayName": "Jarvel theme",
-  "description": "",
-  "version": "0.0.1",
+  "displayName": "Jarvel dark theme",
+  "publisher": "Jarvel",
+  "description": "Jarvel Dark Theme is a dark color theme for Visual Studio Code, inspired by the vibrant nightlife of Tokyo and the calmness of a night storm. ",
+  "license": "MIT",
+  "keywords": [
+    "dark",
+    "theme",
+    "jarvel",
+    "jarvel theme",
+    "jarvel dark theme"
+  ],
+  "repository": {
+    "url": "https://github.com/onraj/jarvel-theme",
+    "type": "git"
+  },
+  "icon": "icon.png",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.87.0"
   },

@@ -11,7 +11,7 @@ Jarvel Dark Theme is a dark color theme for Visual Studio Code, inspired by the 
 
 ## Preview
 
-![Preview of Jarvel Dark Theme](screenshot.png)
+![Preview of Jarvel Dark Theme](https://raw.githubusercontent.com/onraj/jarvel-theme/main/screenshot.png)
 
 ## Customization
 
