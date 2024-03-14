@@ -1,0 +1,21 @@
+{
+  "name": "jarvel-theme",
+  "displayName": "Jarvel theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Jarvel dark theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Jarvel dark theme-color-theme.json"
+      }
+    ]
+  }
+}
